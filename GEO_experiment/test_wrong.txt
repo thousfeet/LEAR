@@ -1,0 +1,180 @@
+what state is var0 the capital of
+state ( loc_1 ( capital ( var0 )  )  )
+state ( capital ( loc_2 ( var0 ) ) )
+state ( loc_1 ( capital ( var0 ) ) )
+
+which state has the most people
+largest_one ( population_1 ( state ( all )  )  )
+state ( loc_1 ( largest_one ( population_1 ( all ) ) ) )
+largest_one ( population_1 ( state ( all ) ) )
+
+what rivers flow through states that var0 borders
+river ( traverse_2 ( state ( next_to_1 ( var0 )  )  )  )
+river ( traverse_2 ( state ( next_to_2 ( var0 ) ) ) )
+river ( traverse_2 ( state ( next_to_1 ( var0 ) ) ) )
+
+what state has the most people
+largest_one ( population_1 ( state ( all )  )  )
+state ( loc_1 ( largest_one ( population_1 ( all ) ) ) )
+largest_one ( population_1 ( state ( all ) ) )
+
+how many states does var0 border
+count ( state ( next_to_1 ( var0 )  )  )
+count ( state ( next_to_2 ( var0 ) ) )
+count ( state ( next_to_1 ( var0 ) ) )
+
+which state has the smallest area that borders var0
+smallest_one ( area_1 ( state ( next_to_2 ( var0 )  )  )  )
+state ( smallest_one ( area_1 ( next_to_2 ( var0 ) ) ) )
+smallest_one ( area_1 ( state ( next_to_2 ( var0 ) ) ) )
+
+what state is the largest in population
+largest_one ( population_1 ( state ( all )  )  )
+state ( largest_one ( loc_2 ( population_1 ( all ) ) ) )
+largest_one ( population_1 ( state ( all ) ) )
+
+through which states does the longest river in var0 run
+state ( traverse_1 ( longest ( river ( loc_2 ( var0 )  )  )  )  )
+traverse_1 ( state ( longest ( river ( loc_2 ( var0 ) ) ) ) )
+state ( traverse_1 ( longest ( river ( loc_2 ( var0 ) ) ) ) )
+
+what are the biggest rivers in var0
+longest ( river ( loc_2 ( var0 )  )  )
+largest ( river ( loc_2 ( var0 ) ) )
+longest ( river ( loc_2 ( var0 ) ) )
+
+what is the number of neighboring states for var0
+count ( state ( next_to_2 ( var0 )  )  )
+next_to_2 ( state ( var0 ) )
+count ( state ( next_to_2 ( var0 ) ) )
+
+number of states bordering var0
+count ( state ( next_to_2 ( var0 )  )  )
+state ( next_to_2 ( var0 ) )
+count ( state ( next_to_2 ( var0 ) ) )
+
+how many cities named var0 are there in the usa
+count ( intersection ( city ( var0 )  , loc_2 ( usa )  )  )
+( count ( city ( var0 ) ) , loc_2 ( usa ) )
+count ( intersection ( city ( var0 ) , loc_2 ( usa ) ) )
+
+how many people are there in var0
+population_1 ( var0 )
+count ( population_1 ( loc_2 ( var0 ) ) )
+population_1 ( var0 )
+
+var0 is the capital of which state
+state ( loc_1 ( capital ( var0 )  )  )
+capital ( loc_2 ( state ( var0 ) ) )
+state ( loc_1 ( capital ( var0 ) ) )
+
+var0 borders how many states
+count ( state ( next_to_1 ( var0 )  )  )
+state ( count ( next_to_2 ( var0 ) ) )
+count ( state ( next_to_1 ( var0 ) ) )
+
+which state has the highest peak in the country
+state ( loc_1 ( highest ( place ( all )  )  )  )
+state ( loc_1 ( highest ( place ( loc_2 ( usa ) ) ) ) )
+state ( loc_1 ( highest ( place ( all ) ) ) )
+
+count the states which have elevations lower than what var0 has
+count ( state ( low_point_2 ( lower_2 ( low_point_1 ( var0 )  )  )  )  )
+state ( loc_1 ( var0 ) )
+count ( state ( low_point_2 ( lower_2 ( low_point_1 ( var0 ) ) ) ) )
+
+what is the largest river in var0 state
+longest ( river ( loc_2 ( state ( var0 )  )  )  )
+largest ( river ( loc_2 ( state ( var0 ) ) ) )
+longest ( river ( loc_2 ( state ( var0 ) ) ) )
+
+what state is var0 the capital of
+state ( loc_1 ( capital ( var0 )  )  )
+capital ( loc_2 ( state ( var0 ) ) )
+state ( loc_1 ( capital ( var0 ) ) )
+
+what rivers flow through states that var0 borders
+river ( traverse_2 ( state ( next_to_1 ( var0 )  )  )  )
+river ( traverse_2 ( state ( next_to_2 ( var0 ) ) ) )
+river ( traverse_2 ( state ( next_to_1 ( var0 ) ) ) )
+
+how many states does var0 border
+count ( state ( next_to_1 ( var0 )  )  )
+count ( state ( next_to_2 ( var0 ) ) )
+count ( state ( next_to_1 ( var0 ) ) )
+
+where is the lowest point in the us
+lowest ( place ( loc_2 ( usa )  )  )
+loc_1 ( lowest ( place ( loc_2 ( usa ) ) ) )
+lowest ( place ( loc_2 ( usa ) ) )
+
+which state has the smallest area that borders var0
+smallest_one ( area_1 ( state ( next_to_2 ( var0 )  )  )  )
+state ( smallest_one ( area_1 ( next_to_2 ( var0 ) ) ) )
+smallest_one ( area_1 ( state ( next_to_2 ( var0 ) ) ) )
+
+what state is the largest in population
+largest_one ( population_1 ( state ( all )  )  )
+state ( largest_one ( loc_2 ( population_1 ( all ) ) ) )
+largest_one ( population_1 ( state ( all ) ) )
+
+through which states does the longest river in var0 run
+state ( traverse_1 ( longest ( river ( loc_2 ( var0 )  )  )  )  )
+traverse_1 ( state ( longest ( river ( loc_2 ( var0 ) ) ) ) )
+state ( traverse_1 ( longest ( river ( loc_2 ( var0 ) ) ) ) )
+
+what are the biggest rivers in var0
+longest ( river ( loc_2 ( var0 )  )  )
+largest ( river ( loc_2 ( var0 ) ) )
+longest ( river ( loc_2 ( var0 ) ) )
+
+what is the number of neighboring states for var0
+count ( state ( next_to_2 ( var0 )  )  )
+next_to_2 ( state ( var0 ) )
+count ( state ( next_to_2 ( var0 ) ) )
+
+number of states bordering var0
+count ( state ( next_to_2 ( var0 )  )  )
+state ( next_to_2 ( var0 ) )
+count ( state ( next_to_2 ( var0 ) ) )
+
+how many residents live in var0
+population_1 ( var0 )
+count ( population_1 ( var0 ) )
+population_1 ( var0 )
+
+how many cities named var0 are there in the usa
+count ( intersection ( city ( var0 )  , loc_2 ( usa )  )  )
+( loc_2 ( count ( city ( var0 ) ) ) , usa )
+count ( intersection ( city ( var0 ) , loc_2 ( usa ) ) )
+
+how many people are there in var0
+population_1 ( var0 )
+population_1 ( loc_2 ( var0 ) )
+population_1 ( var0 )
+
+var0 is the capital of which state
+state ( loc_1 ( capital ( var0 )  )  )
+capital ( loc_2 ( state ( var0 ) ) )
+state ( loc_1 ( capital ( var0 ) ) )
+
+var0 borders how many states
+count ( state ( next_to_1 ( var0 )  )  )
+state ( count ( next_to_2 ( var0 ) ) )
+count ( state ( next_to_1 ( var0 ) ) )
+
+which state has the highest peak in the country
+state ( loc_1 ( highest ( place ( all )  )  )  )
+state ( loc_1 ( highest ( place ( loc_2 ( usa ) ) ) ) )
+state ( loc_1 ( highest ( place ( all ) ) ) )
+
+count the states which have elevations lower than what var0 has
+count ( state ( low_point_2 ( lower_2 ( low_point_1 ( var0 )  )  )  )  )
+state ( loc_1 ( var0 ) )
+count ( state ( low_point_2 ( lower_2 ( low_point_1 ( var0 ) ) ) ) )
+
+what is the largest river in var0 state
+longest ( river ( loc_2 ( state ( var0 )  )  )  )
+largest ( river ( loc_2 ( state ( var0 ) ) ) )
+longest ( river ( loc_2 ( state ( var0 ) ) ) )
+

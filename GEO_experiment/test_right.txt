@@ -1,0 +1,950 @@
+what is the average population per square km in var0
+density_1 ( var0 )
+density_1 ( var0 )
+density_1 ( var0 )
+
+what is the capital of the state var0
+capital ( loc_2 ( state ( var0 )  )  )
+capital ( loc_2 ( state ( var0 ) ) )
+capital ( loc_2 ( state ( var0 ) ) )
+
+what state has the highest population
+largest_one ( population_1 ( state ( all )  )  )
+largest_one ( population_1 ( state ( all ) ) )
+largest_one ( population_1 ( state ( all ) ) )
+
+can you tell me the capital of var0
+capital ( loc_2 ( var0 )  )
+capital ( loc_2 ( var0 ) )
+capital ( loc_2 ( var0 ) )
+
+which rivers run through states that border the state with the capital var0
+river ( traverse_2 ( state ( next_to_2 ( state ( loc_1 ( capital ( var0 )  )  )  )  )  )  )
+river ( traverse_2 ( state ( next_to_2 ( state ( loc_1 ( capital ( var0 ) ) ) ) ) ) )
+river ( traverse_2 ( state ( next_to_2 ( state ( loc_1 ( capital ( var0 ) ) ) ) ) ) )
+
+what major rivers run through var0
+major ( river ( traverse_2 ( var0 )  )  )
+major ( river ( traverse_2 ( var0 ) ) )
+major ( river ( traverse_2 ( var0 ) ) )
+
+what is the population density of var0
+density_1 ( var0 )
+density_1 ( var0 )
+density_1 ( var0 )
+
+what is the longest river that flows through var0
+longest ( river ( traverse_2 ( var0 )  )  )
+longest ( river ( traverse_2 ( var0 ) ) )
+longest ( river ( traverse_2 ( var0 ) ) )
+
+what is the smallest state through which the longest river runs
+smallest ( state ( traverse_1 ( longest ( river ( all )  )  )  )  )
+smallest ( state ( traverse_1 ( longest ( river ( all ) ) ) ) )
+smallest ( state ( traverse_1 ( longest ( river ( all ) ) ) ) )
+
+how many rivers are there in us
+count ( river ( loc_2 ( usa )  )  )
+count ( river ( loc_2 ( usa ) ) )
+count ( river ( loc_2 ( usa ) ) )
+
+what is the smallest city in the us
+smallest ( city ( loc_2 ( usa )  )  )
+smallest ( city ( loc_2 ( usa ) ) )
+smallest ( city ( loc_2 ( usa ) ) )
+
+what is the biggest river in var0
+longest ( river ( loc_2 ( var0 )  )  )
+longest ( river ( loc_2 ( var0 ) ) )
+longest ( river ( loc_2 ( var0 ) ) )
+
+what are the major cities in the usa
+major ( city ( loc_2 ( usa )  )  )
+major ( city ( loc_2 ( usa ) ) )
+major ( city ( loc_2 ( usa ) ) )
+
+what is the area of the states
+area_1 ( state ( all )  )
+area_1 ( state ( all ) )
+area_1 ( state ( all ) )
+
+what are the major cities of the united states
+major ( city ( loc_2 ( usa )  )  )
+major ( city ( loc_2 ( usa ) ) )
+major ( city ( loc_2 ( usa ) ) )
+
+how many people live in the united states
+population_1 ( usa )
+population_1 ( usa )
+population_1 ( usa )
+
+how many people live in var0
+population_1 ( var0 )
+population_1 ( var0 )
+population_1 ( var0 )
+
+where is var0
+loc_1 ( var0 )
+loc_1 ( var0 )
+loc_1 ( var0 )
+
+what can you tell me about the population of var0
+population_1 ( var0 )
+population_1 ( var0 )
+population_1 ( var0 )
+
+what is the smallest city in the usa
+smallest ( city ( loc_2 ( usa )  )  )
+smallest ( city ( loc_2 ( usa ) ) )
+smallest ( city ( loc_2 ( usa ) ) )
+
+how many people stay in var0
+population_1 ( var0 )
+population_1 ( var0 )
+population_1 ( var0 )
+
+what is the population of the largest city in the state with the largest area
+population_1 ( largest ( city ( loc_2 ( largest_one ( area_1 ( state ( all )  )  )  )  )  )  )
+population_1 ( largest ( city ( loc_2 ( largest_one ( area_1 ( state ( all ) ) ) ) ) ) )
+population_1 ( largest ( city ( loc_2 ( largest_one ( area_1 ( state ( all ) ) ) ) ) ) )
+
+what is the smallest state that borders the most states
+smallest ( most ( state ( next_to_2 ( state ( all )  )  )  )  )
+smallest ( most ( state ( next_to_2 ( state ( all ) ) ) ) )
+smallest ( most ( state ( next_to_2 ( state ( all ) ) ) ) )
+
+what are the major rivers in the us
+major ( river ( loc_2 ( usa )  )  )
+major ( river ( loc_2 ( usa ) ) )
+major ( river ( loc_2 ( usa ) ) )
+
+what is the area of the largest state
+area_1 ( largest ( state ( all )  )  )
+area_1 ( largest ( state ( all ) ) )
+area_1 ( largest ( state ( all ) ) )
+
+how many citizens in var0
+population_1 ( var0 )
+population_1 ( var0 )
+population_1 ( var0 )
+
+give me the lakes in var0
+lake ( loc_2 ( var0 )  )
+lake ( loc_2 ( var0 ) )
+lake ( loc_2 ( var0 ) )
+
+what are major rivers in var0
+major ( river ( loc_2 ( var0 )  )  )
+major ( river ( loc_2 ( var0 ) ) )
+major ( river ( loc_2 ( var0 ) ) )
+
+what is the longest river in var0
+longest ( river ( loc_2 ( var0 )  )  )
+longest ( river ( loc_2 ( var0 ) ) )
+longest ( river ( loc_2 ( var0 ) ) )
+
+how much population does var0 have
+population_1 ( var0 )
+population_1 ( var0 )
+population_1 ( var0 )
+
+what is the capital of var0
+capital ( loc_2 ( var0 )  )
+capital ( loc_2 ( var0 ) )
+capital ( loc_2 ( var0 ) )
+
+what states border states that border var0
+state ( next_to_2 ( state ( next_to_2 ( var0 )  )  )  )
+state ( next_to_2 ( state ( next_to_2 ( var0 ) ) ) )
+state ( next_to_2 ( state ( next_to_2 ( var0 ) ) ) )
+
+what is the city with the smallest population
+smallest_one ( population_1 ( city ( all )  )  )
+smallest_one ( population_1 ( city ( all ) ) )
+smallest_one ( population_1 ( city ( all ) ) )
+
+what is the highest point of the state with the smallest population density
+highest ( place ( loc_2 ( smallest_one ( density_1 ( state ( all )  )  )  )  )  )
+highest ( place ( loc_2 ( smallest_one ( density_1 ( state ( all ) ) ) ) ) )
+highest ( place ( loc_2 ( smallest_one ( density_1 ( state ( all ) ) ) ) ) )
+
+how many people reside in var0
+population_1 ( var0 )
+population_1 ( var0 )
+population_1 ( var0 )
+
+what is the longest river in the state with the highest point
+longest ( river ( loc_2 ( state ( loc_1 ( highest ( place ( all )  )  )  )  )  )  )
+longest ( river ( loc_2 ( state ( loc_1 ( highest ( place ( all ) ) ) ) ) ) )
+longest ( river ( loc_2 ( state ( loc_1 ( highest ( place ( all ) ) ) ) ) ) )
+
+where is the lowest point in the us
+lowest ( place ( loc_2 ( usa )  )  )
+lowest ( place ( loc_2 ( usa ) ) )
+lowest ( place ( loc_2 ( usa ) ) )
+
+what is the population density of the state with the smallest population
+density_1 ( smallest_one ( population_1 ( state ( all )  )  )  )
+density_1 ( smallest_one ( population_1 ( state ( all ) ) ) )
+density_1 ( smallest_one ( population_1 ( state ( all ) ) ) )
+
+what is the density of var0
+density_1 ( var0 )
+density_1 ( var0 )
+density_1 ( var0 )
+
+what is the population of var0
+population_1 ( var0 )
+population_1 ( var0 )
+population_1 ( var0 )
+
+what is the capital of the state with the largest population
+capital ( loc_2 ( largest_one ( population_1 ( state ( all )  )  )  )  )
+capital ( loc_2 ( largest_one ( population_1 ( state ( all ) ) ) ) )
+capital ( loc_2 ( largest_one ( population_1 ( state ( all ) ) ) ) )
+
+what are the major rivers in var0
+major ( river ( loc_2 ( var0 )  )  )
+major ( river ( loc_2 ( var0 ) ) )
+major ( river ( loc_2 ( var0 ) ) )
+
+what is the lowest point in the united states
+lowest ( place ( loc_2 ( usa )  )  )
+lowest ( place ( loc_2 ( usa ) ) )
+lowest ( place ( loc_2 ( usa ) ) )
+
+what is the most populous state
+largest_one ( population_1 ( state ( all )  )  )
+largest_one ( population_1 ( state ( all ) ) )
+largest_one ( population_1 ( state ( all ) ) )
+
+name the 50 capitals in the usa
+capital ( loc_2 ( usa )  )
+capital ( loc_2 ( usa ) )
+capital ( loc_2 ( usa ) )
+
+what is the population of the largest state that borders var0
+population_1 ( largest ( state ( next_to_2 ( var0 )  )  )  )
+population_1 ( largest ( state ( next_to_2 ( var0 ) ) ) )
+population_1 ( largest ( state ( next_to_2 ( var0 ) ) ) )
+
+what state has the longest river
+state ( loc_1 ( longest ( river ( all )  )  )  )
+state ( loc_1 ( longest ( river ( all ) ) ) )
+state ( loc_1 ( longest ( river ( all ) ) ) )
+
+which state has the biggest population
+largest_one ( population_1 ( state ( all )  )  )
+largest_one ( population_1 ( state ( all ) ) )
+largest_one ( population_1 ( state ( all ) ) )
+
+how many people are in the state of var0
+population_1 ( state ( var0 )  )
+population_1 ( state ( var0 ) )
+population_1 ( state ( var0 ) )
+
+what is the lowest point of the us
+lowest ( place ( loc_2 ( usa )  )  )
+lowest ( place ( loc_2 ( usa ) ) )
+lowest ( place ( loc_2 ( usa ) ) )
+
+what is the density of the var0
+density_1 ( var0 )
+density_1 ( var0 )
+density_1 ( var0 )
+
+what is the capital of the var0 state
+capital ( loc_2 ( state ( var0 )  )  )
+capital ( loc_2 ( state ( var0 ) ) )
+capital ( loc_2 ( state ( var0 ) ) )
+
+which rivers run through the state with the largest city in the us
+river ( traverse_2 ( state ( loc_1 ( largest ( city ( loc_2 ( usa )  )  )  )  )  )  )
+river ( traverse_2 ( state ( loc_1 ( largest ( city ( loc_2 ( usa ) ) ) ) ) ) )
+river ( traverse_2 ( state ( loc_1 ( largest ( city ( loc_2 ( usa ) ) ) ) ) ) )
+
+which state has the greatest population
+largest_one ( population_1 ( state ( all )  )  )
+largest_one ( population_1 ( state ( all ) ) )
+largest_one ( population_1 ( state ( all ) ) )
+
+what is the longest river flowing through var0
+longest ( river ( traverse_2 ( var0 )  )  )
+longest ( river ( traverse_2 ( var0 ) ) )
+longest ( river ( traverse_2 ( var0 ) ) )
+
+what is the capital of the state with the most inhabitants
+capital ( loc_2 ( largest_one ( population_1 ( state ( all )  )  )  )  )
+capital ( loc_2 ( largest_one ( population_1 ( state ( all ) ) ) ) )
+capital ( loc_2 ( largest_one ( population_1 ( state ( all ) ) ) ) )
+
+how many residents live in var0
+population_1 ( var0 )
+population_1 ( var0 )
+population_1 ( var0 )
+
+what is the lowest point in usa
+lowest ( place ( loc_2 ( usa )  )  )
+lowest ( place ( loc_2 ( usa ) ) )
+lowest ( place ( loc_2 ( usa ) ) )
+
+name the major rivers in var0
+major ( river ( loc_2 ( var0 )  )  )
+major ( river ( loc_2 ( var0 ) ) )
+major ( river ( loc_2 ( var0 ) ) )
+
+what are the major cities of the us
+major ( city ( loc_2 ( usa )  )  )
+major ( city ( loc_2 ( usa ) ) )
+major ( city ( loc_2 ( usa ) ) )
+
+what states border the state that borders the most states
+state ( next_to_2 ( most ( state ( next_to_2 ( state ( all )  )  )  )  )  )
+state ( next_to_2 ( most ( state ( next_to_2 ( state ( all ) ) ) ) ) )
+state ( next_to_2 ( most ( state ( next_to_2 ( state ( all ) ) ) ) ) )
+
+how many states does the var0 run through
+count ( state ( traverse_1 ( var0 )  )  )
+count ( state ( traverse_1 ( var0 ) ) )
+count ( state ( traverse_1 ( var0 ) ) )
+
+what is the population of the capital of the smallest state
+population_1 ( capital ( loc_2 ( smallest ( state ( all )  )  )  )  )
+population_1 ( capital ( loc_2 ( smallest ( state ( all ) ) ) ) )
+population_1 ( capital ( loc_2 ( smallest ( state ( all ) ) ) ) )
+
+how many states border var0
+count ( state ( next_to_2 ( var0 )  )  )
+count ( state ( next_to_2 ( var0 ) ) )
+count ( state ( next_to_2 ( var0 ) ) )
+
+what is the length of the river that runs through the most number of states
+len ( most ( river ( traverse_2 ( state ( all )  )  )  )  )
+len ( most ( river ( traverse_2 ( state ( all ) ) ) ) )
+len ( most ( river ( traverse_2 ( state ( all ) ) ) ) )
+
+what city has the least population
+smallest_one ( population_1 ( city ( all )  )  )
+smallest_one ( population_1 ( city ( all ) ) )
+smallest_one ( population_1 ( city ( all ) ) )
+
+what is the lowest point of the state with the largest area
+lowest ( place ( loc_2 ( largest_one ( area_1 ( state ( all )  )  )  )  )  )
+lowest ( place ( loc_2 ( largest_one ( area_1 ( state ( all ) ) ) ) ) )
+lowest ( place ( loc_2 ( largest_one ( area_1 ( state ( all ) ) ) ) ) )
+
+what is the length of the river that traverses the most states
+len ( most ( river ( traverse_2 ( state ( all )  )  )  )  )
+len ( most ( river ( traverse_2 ( state ( all ) ) ) ) )
+len ( most ( river ( traverse_2 ( state ( all ) ) ) ) )
+
+what is the smallest state bordering var0
+smallest ( state ( next_to_2 ( var0 )  )  )
+smallest ( state ( next_to_2 ( var0 ) ) )
+smallest ( state ( next_to_2 ( var0 ) ) )
+
+what is the state with the lowest point
+state ( loc_1 ( lowest ( place ( all )  )  )  )
+state ( loc_1 ( lowest ( place ( all ) ) ) )
+state ( loc_1 ( lowest ( place ( all ) ) ) )
+
+what river runs through the state with the most cities
+river ( traverse_2 ( most ( state ( loc_1 ( city ( all )  )  )  )  )  )
+river ( traverse_2 ( most ( state ( loc_1 ( city ( all ) ) ) ) ) )
+river ( traverse_2 ( most ( state ( loc_1 ( city ( all ) ) ) ) ) )
+
+what rivers flow through the state with the largest population
+river ( traverse_2 ( largest_one ( population_1 ( state ( all )  )  )  )  )
+river ( traverse_2 ( largest_one ( population_1 ( state ( all ) ) ) ) )
+river ( traverse_2 ( largest_one ( population_1 ( state ( all ) ) ) ) )
+
+what is the size of the largest state in the usa
+size ( largest ( state ( loc_2 ( usa )  )  )  )
+size ( largest ( state ( loc_2 ( usa ) ) ) )
+size ( largest ( state ( loc_2 ( usa ) ) ) )
+
+what state has the capital var0
+state ( loc_1 ( capital ( var0 )  )  )
+state ( loc_1 ( capital ( var0 ) ) )
+state ( loc_1 ( capital ( var0 ) ) )
+
+which rivers run through states bordering var0
+river ( traverse_2 ( state ( next_to_2 ( var0 )  )  )  )
+river ( traverse_2 ( state ( next_to_2 ( var0 ) ) ) )
+river ( traverse_2 ( state ( next_to_2 ( var0 ) ) ) )
+
+what is the name of the state with the lowest point
+state ( loc_1 ( lowest ( place ( all )  )  )  )
+state ( loc_1 ( lowest ( place ( all ) ) ) )
+state ( loc_1 ( lowest ( place ( all ) ) ) )
+
+what is the smallest state that the var0 river runs through
+smallest ( state ( traverse_1 ( river ( var0 )  )  )  )
+smallest ( state ( traverse_1 ( river ( var0 ) ) ) )
+smallest ( state ( traverse_1 ( river ( var0 ) ) ) )
+
+what rivers run through the states that border the state with the capital var0
+river ( traverse_2 ( state ( next_to_2 ( state ( loc_1 ( capital ( var0 )  )  )  )  )  )  )
+river ( traverse_2 ( state ( next_to_2 ( state ( loc_1 ( capital ( var0 ) ) ) ) ) ) )
+river ( traverse_2 ( state ( next_to_2 ( state ( loc_1 ( capital ( var0 ) ) ) ) ) ) )
+
+what is the capital of the state with the largest population density
+capital ( loc_2 ( largest_one ( density_1 ( state ( all )  )  )  )  )
+capital ( loc_2 ( largest_one ( density_1 ( state ( all ) ) ) ) )
+capital ( loc_2 ( largest_one ( density_1 ( state ( all ) ) ) ) )
+
+what state has the largest population
+largest_one ( population_1 ( state ( all )  )  )
+largest_one ( population_1 ( state ( all ) ) )
+largest_one ( population_1 ( state ( all ) ) )
+
+which state has the most population
+largest_one ( population_1 ( state ( all )  )  )
+largest_one ( population_1 ( state ( all ) ) )
+largest_one ( population_1 ( state ( all ) ) )
+
+what rivers are in states that border var0
+river ( loc_2 ( state ( next_to_2 ( var0 )  )  )  )
+river ( loc_2 ( state ( next_to_2 ( var0 ) ) ) )
+river ( loc_2 ( state ( next_to_2 ( var0 ) ) ) )
+
+what state has the shortest river
+state ( loc_1 ( shortest ( river ( all )  )  )  )
+state ( loc_1 ( shortest ( river ( all ) ) ) )
+state ( loc_1 ( shortest ( river ( all ) ) ) )
+
+what is the length of the river that flows through the most states
+len ( most ( river ( traverse_2 ( state ( all )  )  )  )  )
+len ( most ( river ( traverse_2 ( state ( all ) ) ) ) )
+len ( most ( river ( traverse_2 ( state ( all ) ) ) ) )
+
+what is capital of var0
+capital ( loc_2 ( var0 )  )
+capital ( loc_2 ( var0 ) )
+capital ( loc_2 ( var0 ) )
+
+what is the length of the river that runs through the most states
+len ( most ( river ( traverse_2 ( state ( all )  )  )  )  )
+len ( most ( river ( traverse_2 ( state ( all ) ) ) ) )
+len ( most ( river ( traverse_2 ( state ( all ) ) ) ) )
+
+how many citizens live in var0
+population_1 ( var0 )
+population_1 ( var0 )
+population_1 ( var0 )
+
+how many states does the var0 river flow through
+count ( state ( traverse_1 ( river ( var0 )  )  )  )
+count ( state ( traverse_1 ( river ( var0 ) ) ) )
+count ( state ( traverse_1 ( river ( var0 ) ) ) )
+
+what is the most populous state in the us
+largest_one ( population_1 ( state ( loc_2 ( usa )  )  )  )
+largest_one ( population_1 ( state ( loc_2 ( usa ) ) ) )
+largest_one ( population_1 ( state ( loc_2 ( usa ) ) ) )
+
+what is the combined population of all 50 states
+sum ( population_1 ( state ( all )  )  )
+sum ( population_1 ( state ( all ) ) )
+sum ( population_1 ( state ( all ) ) )
+
+what state has the largest urban population
+largest_one ( population_1 ( state ( all )  )  )
+largest_one ( population_1 ( state ( all ) ) )
+largest_one ( population_1 ( state ( all ) ) )
+
+name the major lakes in var0
+major ( lake ( loc_2 ( var0 )  )  )
+major ( lake ( loc_2 ( var0 ) ) )
+major ( lake ( loc_2 ( var0 ) ) )
+
+what is the smallest state that borders var0
+smallest ( state ( next_to_2 ( var0 )  )  )
+smallest ( state ( next_to_2 ( var0 ) ) )
+smallest ( state ( next_to_2 ( var0 ) ) )
+
+how many states does the var0 river run through
+count ( state ( traverse_1 ( river ( var0 )  )  )  )
+count ( state ( traverse_1 ( river ( var0 ) ) ) )
+count ( state ( traverse_1 ( river ( var0 ) ) ) )
+
+which state has the lowest elevation
+state ( loc_1 ( lowest ( place ( all )  )  )  )
+state ( loc_1 ( lowest ( place ( all ) ) ) )
+state ( loc_1 ( lowest ( place ( all ) ) ) )
+
+what is the average population per square km in var0
+density_1 ( var0 )
+density_1 ( var0 )
+density_1 ( var0 )
+
+what is the capital of the state var0
+capital ( loc_2 ( state ( var0 )  )  )
+capital ( loc_2 ( state ( var0 ) ) )
+capital ( loc_2 ( state ( var0 ) ) )
+
+what state has the highest population
+largest_one ( population_1 ( state ( all )  )  )
+largest_one ( population_1 ( state ( all ) ) )
+largest_one ( population_1 ( state ( all ) ) )
+
+can you tell me the capital of var0
+capital ( loc_2 ( var0 )  )
+capital ( loc_2 ( var0 ) )
+capital ( loc_2 ( var0 ) )
+
+which rivers run through states that border the state with the capital var0
+river ( traverse_2 ( state ( next_to_2 ( state ( loc_1 ( capital ( var0 )  )  )  )  )  )  )
+river ( traverse_2 ( state ( next_to_2 ( state ( loc_1 ( capital ( var0 ) ) ) ) ) ) )
+river ( traverse_2 ( state ( next_to_2 ( state ( loc_1 ( capital ( var0 ) ) ) ) ) ) )
+
+what major rivers run through var0
+major ( river ( traverse_2 ( var0 )  )  )
+major ( river ( traverse_2 ( var0 ) ) )
+major ( river ( traverse_2 ( var0 ) ) )
+
+what is the population density of var0
+density_1 ( var0 )
+density_1 ( var0 )
+density_1 ( var0 )
+
+what is the longest river that flows through var0
+longest ( river ( traverse_2 ( var0 )  )  )
+longest ( river ( traverse_2 ( var0 ) ) )
+longest ( river ( traverse_2 ( var0 ) ) )
+
+what is the smallest state through which the longest river runs
+smallest ( state ( traverse_1 ( longest ( river ( all )  )  )  )  )
+smallest ( state ( traverse_1 ( longest ( river ( all ) ) ) ) )
+smallest ( state ( traverse_1 ( longest ( river ( all ) ) ) ) )
+
+how many rivers are there in us
+count ( river ( loc_2 ( usa )  )  )
+count ( river ( loc_2 ( usa ) ) )
+count ( river ( loc_2 ( usa ) ) )
+
+which state has the most people
+largest_one ( population_1 ( state ( all )  )  )
+largest_one ( population_1 ( state ( all ) ) )
+largest_one ( population_1 ( state ( all ) ) )
+
+what is the smallest city in the us
+smallest ( city ( loc_2 ( usa )  )  )
+smallest ( city ( loc_2 ( usa ) ) )
+smallest ( city ( loc_2 ( usa ) ) )
+
+what is the biggest river in var0
+longest ( river ( loc_2 ( var0 )  )  )
+longest ( river ( loc_2 ( var0 ) ) )
+longest ( river ( loc_2 ( var0 ) ) )
+
+what are the major cities in the usa
+major ( city ( loc_2 ( usa )  )  )
+major ( city ( loc_2 ( usa ) ) )
+major ( city ( loc_2 ( usa ) ) )
+
+what is the area of the states
+area_1 ( state ( all )  )
+area_1 ( state ( all ) )
+area_1 ( state ( all ) )
+
+what are the major cities of the united states
+major ( city ( loc_2 ( usa )  )  )
+major ( city ( loc_2 ( usa ) ) )
+major ( city ( loc_2 ( usa ) ) )
+
+how many people live in the united states
+population_1 ( usa )
+population_1 ( usa )
+population_1 ( usa )
+
+how many people live in var0
+population_1 ( var0 )
+population_1 ( var0 )
+population_1 ( var0 )
+
+where is var0
+loc_1 ( var0 )
+loc_1 ( var0 )
+loc_1 ( var0 )
+
+what can you tell me about the population of var0
+population_1 ( var0 )
+population_1 ( var0 )
+population_1 ( var0 )
+
+what is the smallest city in the usa
+smallest ( city ( loc_2 ( usa )  )  )
+smallest ( city ( loc_2 ( usa ) ) )
+smallest ( city ( loc_2 ( usa ) ) )
+
+what state has the most people
+largest_one ( population_1 ( state ( all )  )  )
+largest_one ( population_1 ( state ( all ) ) )
+largest_one ( population_1 ( state ( all ) ) )
+
+how many people stay in var0
+population_1 ( var0 )
+population_1 ( var0 )
+population_1 ( var0 )
+
+what is the population of the largest city in the state with the largest area
+population_1 ( largest ( city ( loc_2 ( largest_one ( area_1 ( state ( all )  )  )  )  )  )  )
+population_1 ( largest ( city ( loc_2 ( largest_one ( area_1 ( state ( all ) ) ) ) ) ) )
+population_1 ( largest ( city ( loc_2 ( largest_one ( area_1 ( state ( all ) ) ) ) ) ) )
+
+what is the smallest state that borders the most states
+smallest ( most ( state ( next_to_2 ( state ( all )  )  )  )  )
+smallest ( most ( state ( next_to_2 ( state ( all ) ) ) ) )
+smallest ( most ( state ( next_to_2 ( state ( all ) ) ) ) )
+
+what are the major rivers in the us
+major ( river ( loc_2 ( usa )  )  )
+major ( river ( loc_2 ( usa ) ) )
+major ( river ( loc_2 ( usa ) ) )
+
+what is the area of the largest state
+area_1 ( largest ( state ( all )  )  )
+area_1 ( largest ( state ( all ) ) )
+area_1 ( largest ( state ( all ) ) )
+
+how many citizens in var0
+population_1 ( var0 )
+population_1 ( var0 )
+population_1 ( var0 )
+
+give me the lakes in var0
+lake ( loc_2 ( var0 )  )
+lake ( loc_2 ( var0 ) )
+lake ( loc_2 ( var0 ) )
+
+what are major rivers in var0
+major ( river ( loc_2 ( var0 )  )  )
+major ( river ( loc_2 ( var0 ) ) )
+major ( river ( loc_2 ( var0 ) ) )
+
+what is the longest river in var0
+longest ( river ( loc_2 ( var0 )  )  )
+longest ( river ( loc_2 ( var0 ) ) )
+longest ( river ( loc_2 ( var0 ) ) )
+
+how much population does var0 have
+population_1 ( var0 )
+population_1 ( var0 )
+population_1 ( var0 )
+
+what is the capital of var0
+capital ( loc_2 ( var0 )  )
+capital ( loc_2 ( var0 ) )
+capital ( loc_2 ( var0 ) )
+
+what states border states that border var0
+state ( next_to_2 ( state ( next_to_2 ( var0 )  )  )  )
+state ( next_to_2 ( state ( next_to_2 ( var0 ) ) ) )
+state ( next_to_2 ( state ( next_to_2 ( var0 ) ) ) )
+
+what is the city with the smallest population
+smallest_one ( population_1 ( city ( all )  )  )
+smallest_one ( population_1 ( city ( all ) ) )
+smallest_one ( population_1 ( city ( all ) ) )
+
+what is the highest point of the state with the smallest population density
+highest ( place ( loc_2 ( smallest_one ( density_1 ( state ( all )  )  )  )  )  )
+highest ( place ( loc_2 ( smallest_one ( density_1 ( state ( all ) ) ) ) ) )
+highest ( place ( loc_2 ( smallest_one ( density_1 ( state ( all ) ) ) ) ) )
+
+how many people reside in var0
+population_1 ( var0 )
+population_1 ( var0 )
+population_1 ( var0 )
+
+what is the longest river in the state with the highest point
+longest ( river ( loc_2 ( state ( loc_1 ( highest ( place ( all )  )  )  )  )  )  )
+longest ( river ( loc_2 ( state ( loc_1 ( highest ( place ( all ) ) ) ) ) ) )
+longest ( river ( loc_2 ( state ( loc_1 ( highest ( place ( all ) ) ) ) ) ) )
+
+what is the population density of the state with the smallest population
+density_1 ( smallest_one ( population_1 ( state ( all )  )  )  )
+density_1 ( smallest_one ( population_1 ( state ( all ) ) ) )
+density_1 ( smallest_one ( population_1 ( state ( all ) ) ) )
+
+what is the density of var0
+density_1 ( var0 )
+density_1 ( var0 )
+density_1 ( var0 )
+
+what is the population of var0
+population_1 ( var0 )
+population_1 ( var0 )
+population_1 ( var0 )
+
+what is the capital of the state with the largest population
+capital ( loc_2 ( largest_one ( population_1 ( state ( all )  )  )  )  )
+capital ( loc_2 ( largest_one ( population_1 ( state ( all ) ) ) ) )
+capital ( loc_2 ( largest_one ( population_1 ( state ( all ) ) ) ) )
+
+what are the major rivers in var0
+major ( river ( loc_2 ( var0 )  )  )
+major ( river ( loc_2 ( var0 ) ) )
+major ( river ( loc_2 ( var0 ) ) )
+
+what is the lowest point in the united states
+lowest ( place ( loc_2 ( usa )  )  )
+lowest ( place ( loc_2 ( usa ) ) )
+lowest ( place ( loc_2 ( usa ) ) )
+
+what is the most populous state
+largest_one ( population_1 ( state ( all )  )  )
+largest_one ( population_1 ( state ( all ) ) )
+largest_one ( population_1 ( state ( all ) ) )
+
+name the 50 capitals in the usa
+capital ( loc_2 ( usa )  )
+capital ( loc_2 ( usa ) )
+capital ( loc_2 ( usa ) )
+
+what is the population of the largest state that borders var0
+population_1 ( largest ( state ( next_to_2 ( var0 )  )  )  )
+population_1 ( largest ( state ( next_to_2 ( var0 ) ) ) )
+population_1 ( largest ( state ( next_to_2 ( var0 ) ) ) )
+
+what state has the longest river
+state ( loc_1 ( longest ( river ( all )  )  )  )
+state ( loc_1 ( longest ( river ( all ) ) ) )
+state ( loc_1 ( longest ( river ( all ) ) ) )
+
+which state has the biggest population
+largest_one ( population_1 ( state ( all )  )  )
+largest_one ( population_1 ( state ( all ) ) )
+largest_one ( population_1 ( state ( all ) ) )
+
+how many people are in the state of var0
+population_1 ( state ( var0 )  )
+population_1 ( state ( var0 ) )
+population_1 ( state ( var0 ) )
+
+what is the lowest point of the us
+lowest ( place ( loc_2 ( usa )  )  )
+lowest ( place ( loc_2 ( usa ) ) )
+lowest ( place ( loc_2 ( usa ) ) )
+
+what is the density of the var0
+density_1 ( var0 )
+density_1 ( var0 )
+density_1 ( var0 )
+
+what is the capital of the var0 state
+capital ( loc_2 ( state ( var0 )  )  )
+capital ( loc_2 ( state ( var0 ) ) )
+capital ( loc_2 ( state ( var0 ) ) )
+
+which rivers run through the state with the largest city in the us
+river ( traverse_2 ( state ( loc_1 ( largest ( city ( loc_2 ( usa )  )  )  )  )  )  )
+river ( traverse_2 ( state ( loc_1 ( largest ( city ( loc_2 ( usa ) ) ) ) ) ) )
+river ( traverse_2 ( state ( loc_1 ( largest ( city ( loc_2 ( usa ) ) ) ) ) ) )
+
+which state has the greatest population
+largest_one ( population_1 ( state ( all )  )  )
+largest_one ( population_1 ( state ( all ) ) )
+largest_one ( population_1 ( state ( all ) ) )
+
+what is the longest river flowing through var0
+longest ( river ( traverse_2 ( var0 )  )  )
+longest ( river ( traverse_2 ( var0 ) ) )
+longest ( river ( traverse_2 ( var0 ) ) )
+
+what is the capital of the state with the most inhabitants
+capital ( loc_2 ( largest_one ( population_1 ( state ( all )  )  )  )  )
+capital ( loc_2 ( largest_one ( population_1 ( state ( all ) ) ) ) )
+capital ( loc_2 ( largest_one ( population_1 ( state ( all ) ) ) ) )
+
+what is the lowest point in usa
+lowest ( place ( loc_2 ( usa )  )  )
+lowest ( place ( loc_2 ( usa ) ) )
+lowest ( place ( loc_2 ( usa ) ) )
+
+name the major rivers in var0
+major ( river ( loc_2 ( var0 )  )  )
+major ( river ( loc_2 ( var0 ) ) )
+major ( river ( loc_2 ( var0 ) ) )
+
+what are the major cities of the us
+major ( city ( loc_2 ( usa )  )  )
+major ( city ( loc_2 ( usa ) ) )
+major ( city ( loc_2 ( usa ) ) )
+
+what states border the state that borders the most states
+state ( next_to_2 ( most ( state ( next_to_2 ( state ( all )  )  )  )  )  )
+state ( next_to_2 ( most ( state ( next_to_2 ( state ( all ) ) ) ) ) )
+state ( next_to_2 ( most ( state ( next_to_2 ( state ( all ) ) ) ) ) )
+
+how many states does the var0 run through
+count ( state ( traverse_1 ( var0 )  )  )
+count ( state ( traverse_1 ( var0 ) ) )
+count ( state ( traverse_1 ( var0 ) ) )
+
+what is the population of the capital of the smallest state
+population_1 ( capital ( loc_2 ( smallest ( state ( all )  )  )  )  )
+population_1 ( capital ( loc_2 ( smallest ( state ( all ) ) ) ) )
+population_1 ( capital ( loc_2 ( smallest ( state ( all ) ) ) ) )
+
+how many states border var0
+count ( state ( next_to_2 ( var0 )  )  )
+count ( state ( next_to_2 ( var0 ) ) )
+count ( state ( next_to_2 ( var0 ) ) )
+
+what is the length of the river that runs through the most number of states
+len ( most ( river ( traverse_2 ( state ( all )  )  )  )  )
+len ( most ( river ( traverse_2 ( state ( all ) ) ) ) )
+len ( most ( river ( traverse_2 ( state ( all ) ) ) ) )
+
+what city has the least population
+smallest_one ( population_1 ( city ( all )  )  )
+smallest_one ( population_1 ( city ( all ) ) )
+smallest_one ( population_1 ( city ( all ) ) )
+
+what is the lowest point of the state with the largest area
+lowest ( place ( loc_2 ( largest_one ( area_1 ( state ( all )  )  )  )  )  )
+lowest ( place ( loc_2 ( largest_one ( area_1 ( state ( all ) ) ) ) ) )
+lowest ( place ( loc_2 ( largest_one ( area_1 ( state ( all ) ) ) ) ) )
+
+what is the length of the river that traverses the most states
+len ( most ( river ( traverse_2 ( state ( all )  )  )  )  )
+len ( most ( river ( traverse_2 ( state ( all ) ) ) ) )
+len ( most ( river ( traverse_2 ( state ( all ) ) ) ) )
+
+what is the smallest state bordering var0
+smallest ( state ( next_to_2 ( var0 )  )  )
+smallest ( state ( next_to_2 ( var0 ) ) )
+smallest ( state ( next_to_2 ( var0 ) ) )
+
+what is the state with the lowest point
+state ( loc_1 ( lowest ( place ( all )  )  )  )
+state ( loc_1 ( lowest ( place ( all ) ) ) )
+state ( loc_1 ( lowest ( place ( all ) ) ) )
+
+what river runs through the state with the most cities
+river ( traverse_2 ( most ( state ( loc_1 ( city ( all )  )  )  )  )  )
+river ( traverse_2 ( most ( state ( loc_1 ( city ( all ) ) ) ) ) )
+river ( traverse_2 ( most ( state ( loc_1 ( city ( all ) ) ) ) ) )
+
+what rivers flow through the state with the largest population
+river ( traverse_2 ( largest_one ( population_1 ( state ( all )  )  )  )  )
+river ( traverse_2 ( largest_one ( population_1 ( state ( all ) ) ) ) )
+river ( traverse_2 ( largest_one ( population_1 ( state ( all ) ) ) ) )
+
+what is the size of the largest state in the usa
+size ( largest ( state ( loc_2 ( usa )  )  )  )
+size ( largest ( state ( loc_2 ( usa ) ) ) )
+size ( largest ( state ( loc_2 ( usa ) ) ) )
+
+what state has the capital var0
+state ( loc_1 ( capital ( var0 )  )  )
+state ( loc_1 ( capital ( var0 ) ) )
+state ( loc_1 ( capital ( var0 ) ) )
+
+which rivers run through states bordering var0
+river ( traverse_2 ( state ( next_to_2 ( var0 )  )  )  )
+river ( traverse_2 ( state ( next_to_2 ( var0 ) ) ) )
+river ( traverse_2 ( state ( next_to_2 ( var0 ) ) ) )
+
+what is the name of the state with the lowest point
+state ( loc_1 ( lowest ( place ( all )  )  )  )
+state ( loc_1 ( lowest ( place ( all ) ) ) )
+state ( loc_1 ( lowest ( place ( all ) ) ) )
+
+what is the smallest state that the var0 river runs through
+smallest ( state ( traverse_1 ( river ( var0 )  )  )  )
+smallest ( state ( traverse_1 ( river ( var0 ) ) ) )
+smallest ( state ( traverse_1 ( river ( var0 ) ) ) )
+
+what rivers run through the states that border the state with the capital var0
+river ( traverse_2 ( state ( next_to_2 ( state ( loc_1 ( capital ( var0 )  )  )  )  )  )  )
+river ( traverse_2 ( state ( next_to_2 ( state ( loc_1 ( capital ( var0 ) ) ) ) ) ) )
+river ( traverse_2 ( state ( next_to_2 ( state ( loc_1 ( capital ( var0 ) ) ) ) ) ) )
+
+what is the capital of the state with the largest population density
+capital ( loc_2 ( largest_one ( density_1 ( state ( all )  )  )  )  )
+capital ( loc_2 ( largest_one ( density_1 ( state ( all ) ) ) ) )
+capital ( loc_2 ( largest_one ( density_1 ( state ( all ) ) ) ) )
+
+what state has the largest population
+largest_one ( population_1 ( state ( all )  )  )
+largest_one ( population_1 ( state ( all ) ) )
+largest_one ( population_1 ( state ( all ) ) )
+
+which state has the most population
+largest_one ( population_1 ( state ( all )  )  )
+largest_one ( population_1 ( state ( all ) ) )
+largest_one ( population_1 ( state ( all ) ) )
+
+what rivers are in states that border var0
+river ( loc_2 ( state ( next_to_2 ( var0 )  )  )  )
+river ( loc_2 ( state ( next_to_2 ( var0 ) ) ) )
+river ( loc_2 ( state ( next_to_2 ( var0 ) ) ) )
+
+what state has the shortest river
+state ( loc_1 ( shortest ( river ( all )  )  )  )
+state ( loc_1 ( shortest ( river ( all ) ) ) )
+state ( loc_1 ( shortest ( river ( all ) ) ) )
+
+what is the length of the river that flows through the most states
+len ( most ( river ( traverse_2 ( state ( all )  )  )  )  )
+len ( most ( river ( traverse_2 ( state ( all ) ) ) ) )
+len ( most ( river ( traverse_2 ( state ( all ) ) ) ) )
+
+what is capital of var0
+capital ( loc_2 ( var0 )  )
+capital ( loc_2 ( var0 ) )
+capital ( loc_2 ( var0 ) )
+
+what is the length of the river that runs through the most states
+len ( most ( river ( traverse_2 ( state ( all )  )  )  )  )
+len ( most ( river ( traverse_2 ( state ( all ) ) ) ) )
+len ( most ( river ( traverse_2 ( state ( all ) ) ) ) )
+
+how many citizens live in var0
+population_1 ( var0 )
+population_1 ( var0 )
+population_1 ( var0 )
+
+how many states does the var0 river flow through
+count ( state ( traverse_1 ( river ( var0 )  )  )  )
+count ( state ( traverse_1 ( river ( var0 ) ) ) )
+count ( state ( traverse_1 ( river ( var0 ) ) ) )
+
+what is the most populous state in the us
+largest_one ( population_1 ( state ( loc_2 ( usa )  )  )  )
+largest_one ( population_1 ( state ( loc_2 ( usa ) ) ) )
+largest_one ( population_1 ( state ( loc_2 ( usa ) ) ) )
+
+what is the combined population of all 50 states
+sum ( population_1 ( state ( all )  )  )
+sum ( population_1 ( state ( all ) ) )
+sum ( population_1 ( state ( all ) ) )
+
+what state has the largest urban population
+largest_one ( population_1 ( state ( all )  )  )
+largest_one ( population_1 ( state ( all ) ) )
+largest_one ( population_1 ( state ( all ) ) )
+
+name the major lakes in var0
+major ( lake ( loc_2 ( var0 )  )  )
+major ( lake ( loc_2 ( var0 ) ) )
+major ( lake ( loc_2 ( var0 ) ) )
+
+what is the smallest state that borders var0
+smallest ( state ( next_to_2 ( var0 )  )  )
+smallest ( state ( next_to_2 ( var0 ) ) )
+smallest ( state ( next_to_2 ( var0 ) ) )
+
+how many states does the var0 river run through
+count ( state ( traverse_1 ( river ( var0 )  )  )  )
+count ( state ( traverse_1 ( river ( var0 ) ) ) )
+count ( state ( traverse_1 ( river ( var0 ) ) ) )
+
+which state has the lowest elevation
+state ( loc_1 ( lowest ( place ( all )  )  )  )
+state ( loc_1 ( lowest ( place ( all ) ) ) )
+state ( loc_1 ( lowest ( place ( all ) ) ) )
+

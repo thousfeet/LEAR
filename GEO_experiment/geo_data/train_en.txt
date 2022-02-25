@@ -1,0 +1,379 @@
+could you tell me what is the highest point in the state of var0
+give me all the states of usa
+give me the cities in var0
+give me the cities which are in var0
+tell me what cities are in var0
+what are the cities in var0
+what cities are located in var0
+what cities in var0
+give me the largest state
+what is the biggest state
+what is the largest state
+what state is the biggest
+give me the longest river that passes through the us
+give me the number of rivers in var0
+how many rivers are found in var0
+how many rivers are in var0
+how many rivers are there in var0
+how many rivers does var0 have
+how many rivers in var0
+give me the states that border var0
+states bordering var0
+what are the neighboring states for var0
+what is the adjacent state of var0
+what state borders var0
+what states are next to var0
+what states are next to the var0
+what states border var0
+what states neighbor var0
+what states surround var0
+which state border var0
+which state borders var0
+which states adjoin var0
+which states border var0
+how big is the city of var0
+how high are the highest points of all the states
+how high is var0
+how tall is var0
+what is the elevation of var0
+how high is the highest point in america
+what is the elevation of the highest point in the usa
+what is the height of the highest point in the usa
+what is the highest elevation in the united states
+how large is the largest city in var0
+how long is the longest river in var0
+how long is the longest river in the usa
+what is the length of the longest river in the usa
+how long is the shortest river in the usa
+how many big cities are in var0
+how many major cities are in var0
+how many major cities are there in var0
+how many capitals does var0 have
+how many cities are in var0
+how many cities does var0 have
+how many citizens does the biggest city have in the usa
+how many citizens in var0
+how many inhabitants does var0 have
+how many people in var0
+how many people live in var0
+how many people lived in var0
+number of citizens in var0
+number of people in var0
+people in var0
+population of var0
+what is the population in var0
+what is the population of var0
+what is the population of var0 city
+how many major cities are in states bordering var0
+how many major rivers cross var0
+how many people live in var0 var1
+what is the population of var0 var1
+how many people live in the biggest city in var0 state
+how many people live in the capital of var0
+how many people live in the smallest state bordering var0
+how many people live in the state with the largest population density
+what is the population of the state with the highest population density
+how many rivers are in the state that has the most rivers
+how many rivers are in the state with the largest population
+how many rivers do not traverse the state with the capital var0
+how many rivers in var1 are longer than the var0
+how many rivers run through var0
+how many square kilometers in the us
+what is the total area of the usa
+how many states are in the united states
+how many states are in the usa
+how many states are there in the usa
+how many states are there in united states
+how many states does usa have
+how many states are there
+how many states border at least one other state
+how many states border var1 and border var0
+how many states border on the state whose capital is var0
+how many states border the state that borders the most states
+how many states border the state with the largest population
+how many states do not have rivers
+how many states have a higher point than the highest point of the state with the largest capital city in the us
+how many states have major rivers
+how many states in the us does the shortest river run through
+in which state does the highest point in usa exist
+what is the state with the highest elevation in the united states
+what state contains the highest point in the us
+in which state is var0
+var0 is in what state
+what state is var0 in
+what state is var0 located in
+which state is var0 in
+list the states
+what are the states
+name all the lakes of us
+name the longest river in us
+what is the longest river in america
+what is the longest river in the united states
+what is the longest river in the us
+what river is the longest one in the united states
+which is the longest river in usa
+name the states which have no surrounding states
+what states have no bordering state
+which states border no other states
+of the states washed by the var0 river which has the lowest point
+show major cities in var0
+what are the major cities in var0
+what are the major cities of var0
+what are the names of the major cities in var0
+what is the major cities in var0
+what major cities are located in var0
+state the state with the largest area
+what is the state with the largest area
+what state has the largest area
+through which states does the var0 flow
+through which states does the var0 run
+what states does the var0 run through
+which states does the var0 river run through
+which states does the var0 run through
+which states does the var0 river pass through
+what are the capital cities of the states which border var0
+what are the capitals of states that border var0
+what are the capitals of the states that border var0
+which capitals are in the states that border var0
+what are the cities in states through which the var0 runs
+what are the cities of the state with the highest point
+what are the high points of states surrounding var0
+what are the highest points of states surrounding var0
+what is the highest point in states bordering var0
+what is the highest point in the states bordering var0
+what are the lakes in states bordering var0
+what are the largest cities in the states that border the largest state
+what are the major cities in states through which the var0 runs
+what are the major cities in the largest state
+what are the major cities in the smallest state in the us
+what are the major cities in the state of var0
+what are the major cities in the states through which the major river in var0 runs
+what are the population densities of each us state
+what are the populations of all the major cities in var0
+what are the populations of the major cities of var0
+what is the population of the major cities in var0
+what are the populations of states through which the var0 river runs
+what are the populations of the states through which the var0 river runs
+what are the populations of states through which the var0 runs
+what are the populations of the states through which the var0 runs
+what are the populations of states which border var0
+what are the states that border the state with the greatest population
+what states border the most populous state
+what are the states through which the longest river runs
+which states does the longest river cross
+which states does the longest river run through
+what capital has the largest population
+what capital is the largest in the us
+what cities in var0 have the highest number of citizens
+what cities in var0 have the highest populations
+what is the city in var0 with the largest population
+what is the largest city in var0 by population
+what is the most populous city in var0
+where is the most populated area of var0
+which city in var0 has the largest population
+what city has the largest population
+what city has the most people
+what is the most populous city
+what city in the united states has the highest population density
+which us city has the highest population density
+what is capital of the state with the lowest point
+what is largest capital
+what is the largest capital
+what is the area of all the states combined
+what is the combined area of all 50 states
+what is the area of the state with the capital var0
+what is the area of the state with the smallest population density
+what is the biggest capital city in the us
+what is the largest capital city in the usa
+what is the biggest city in var0
+what is the largest city in var0
+what is the largest city of var0
+what is the biggest city in the smallest state
+what is the biggest city in the us
+what is the biggest city in the usa
+what is the biggest city in usa
+what is the biggest state in continental us
+what is the biggest state in the usa
+what is the largest state in the us
+what is the largest state in usa
+what is the capital of states that have cities named var0
+what is the capital of the smallest state
+what is the capital of the state with the highest elevation
+what is the capital of the state with the highest point
+what is the capital of the state with the longest river
+what is the height of mount var0
+what is the height of the highest mountain in var0
+what is the high point of var0
+what is the highest mountain in var0
+what is the highest point in var0
+where is the highest point in var0
+what is the highest point in each state whose lowest point is sea level
+what is the highest point in the country
+what is the highest point in the united states
+what is the highest point in the us
+what is the highest point in the usa
+what is the highest point of the usa
+what is the highest point in the smallest state
+what is the highest point in the state with capital var0
+what is the highest point in the state with the capital var0
+what is the highest point in the state with the most rivers
+what is the highest point of the state with the largest area
+what is the largest city in a state that borders var0
+what is the largest city in states that border var0
+what is the largest city in smallest state through which the var0 runs
+what is the largest city in the smallest state in the usa
+what is the largest state traversed by the var0 river
+what is the largest state bordering var0
+what is the largest state that borders var0
+what state that borders var0 is the largest
+what is the largest state capital in population
+what is the largest state that borders the state with the highest population
+what is the largest state that borders the state with the lowest point in the usa
+what is the least populous state
+what is the state with the lowest population
+what state has the smallest population
+what state has the smallest urban population
+what is the length of the var0 river in var1
+what is the length of the longest river that runs through var0
+what is the longest river in the largest state
+what is the longest river in the smallest state in the usa
+what is the longest river in the state with the most major cities
+what is the longest river in the states that border var0
+what is the longest river that does not run through var0
+what is the longest river that flows through a state that borders var0
+what is the longest river that runs through a state that borders var0
+what is the longest river
+what is the lowest elevation in var0
+what is the lowest point in var0
+what is the lowest point in var0 in meters
+what is the lowest point of var0
+where is the lowest point in var0
+where is the lowest spot in var0
+what is the lowest point of all states through which the var0 river runs through
+what is the maximum elevation of var0
+what is the most populated capital in the usa
+what is the most populated state bordering var0
+what state bordering var0 has the largest population
+what state that borders var0 has the highest population
+which of the states bordering var0 has the largest population
+what is the most populous state through which the var0 runs
+what state which the var0 runs through has the largest population
+what is the population density in the state with capital var0
+what is the population density of the largest state
+what is the population density of the smallest state
+what is the population density of the state with the smallest area
+what is the population of the capital of the largest state through which the var0 runs
+what is the population of the capital of the largest state
+what is the population of the largest state
+what is the population of the smallest state
+what is the population of the state that borders the most states
+what is the population of the state with the largest area
+what is the shortest river in var0
+what is the size of the capital of var0
+what is the smallest city in the largest state
+what is the smallest city of the smallest state in the us
+what is the smallest state by area
+what is the state with the smallest area
+what state has the smallest area
+what is the smallest state in the usa
+what is the state that contains the highest point
+what state has highest elevation
+what state has the highest elevation
+which state has the highest elevation
+which state has the highest point
+what is the state with the lowest population density
+what state has the least population density
+what state has the lowest population density
+what state has the smallest population density
+what state has the sparsest population density
+which state has the least population density
+which state has the lowest population density
+which state has the smallest average urban population
+which state has the smallest population density
+which state has the sparsest population density
+what is the total population of the states that border var0
+what mountains are in var0
+what river flows through the most states
+what river runs through the most states
+what river traverses the most states
+which river goes through the most states
+which river runs through most states
+which river runs through the most states
+which river traverses most states
+what rivers do not run through var0
+which rivers do not run through var0
+what rivers flow through states that border the state with the largest population
+what rivers flow through the largest state
+what rivers run through the state with the lowest point in the usa
+which rivers run through the state with the lowest elevation in the usa
+what state borders the least states excluding var0 and excluding var1
+what state borders the least states
+what state borders the state with the smallest population
+what state contains the highest point of those the var0 river traverses
+what state has no rivers
+what state has the city var0
+what states have a city named var0
+what states have cities named var0
+what states have towns named var0
+which state is the city var0 located in
+which states have cities named var0
+what state has the city with the largest population
+what state has the city with the most population
+what state has the largest capital
+what state has the largest city
+which state has the largest city
+what state has the most cities
+what state has the most major cities
+which state has the most major cities
+what state has the most rivers running through it
+which state has the most rivers running through it
+what state has the most rivers
+which state contains most rivers
+which state has the most rivers
+what state has the smallest capital
+what state is the state with the most rivers
+what states border states that border states that border var0
+what states border states that border states that border states that border var0
+what states border states that border the state with the largest population
+what states border states that the var0 runs through
+what states border states which the var0 runs through
+which states border states through which the var0 traverses
+what states border var0 and have a major river
+what states border the var0 river
+which states border the var0 river
+what states border the state with the most cities
+what states border the states with the most cities
+what states border the state with the most major cities
+what states border the state with the smallest area
+which states border the state with the smallest area
+what states contain at least one major rivers
+what states does the var0 river run through
+what states does the var0 river go through
+which states do var0 river flow through
+what states does the shortest river run through
+what states have a capital that is the highest point in the state
+what states have rivers named var0
+what states have rivers running through them
+what states in the united states have a city of var0
+what var0 city has the largest population
+where are mountains
+where is var0
+where is the var0 river
+which is the highest peak not in var0
+which is the lowest point of the states that the var0 runs through
+which is the smallest state
+which state is the smallest
+which rivers run through states with fewest cities
+which state 's capital city is the largest
+which state capital has the smallest population
+which state has the longest river
+which state has the lowest point that borders var0
+which state has the var0 river
+which state is the largest city in var0 in
+which states border the longest river in the usa
+which states does not border var0
+which states have a major city named var0
+which states have a river
+which states have points higher than the highest point in var0
+which states have points that are higher than the highest point in var0
+which states lie on the largest river in the united states
